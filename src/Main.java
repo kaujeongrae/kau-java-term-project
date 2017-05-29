@@ -6,6 +6,7 @@
 //
 
 import java.util.*;
+import java.util.ArrayList;
 
 public class Main {
 	public static void main(String[] args){
@@ -24,6 +25,8 @@ public class Main {
 		int price=sc.nextInt();
 		
 		//각 클래스로 넘어가서 저장하는 함수를 만들어야 한다.
+		
+		List<Object> diaryList=new ArrayList<Object>();
 		
 		
 		
